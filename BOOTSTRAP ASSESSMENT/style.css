@@ -1,0 +1,23 @@
+.img{
+    height: 200px;
+    width: 290px;
+}
+ .modal{
+    background-color: rgba(128, 128, 128, 0.356);
+} 
+.modal-content{
+    height: 380px;
+    width: 470px;
+}
+
+.btn-close{
+float: right;
+}
+.img-1{
+    height: 300px;
+    width: 435px;
+}
+.h5{
+    margin-left: 180px;
+    margin-top: -20px;
+}
